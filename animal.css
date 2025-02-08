@@ -1,0 +1,27 @@
+header h1{
+    color: darkgoldenrod;
+    text-align: center;
+    text-decoration: underline;
+    border-style: solid;
+    padding: 20px;
+}
+main h2{
+    color: darkgoldenrod;
+    text-align: left;
+    text-decoration: underline;
+    display: flex;
+}
+main .allbear{
+    display: flex;
+}
+main #bears{
+    border-style: solid;
+    margin: 10px 500px 10px 0px;
+}
+main .allgiraffe{
+    display: flex;
+}
+main #giraffes{
+    border-style: solid;
+    margin: 10px 500px 10px 0px;
+}
