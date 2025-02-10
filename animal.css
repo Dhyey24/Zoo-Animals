@@ -20,15 +20,11 @@ main .allbear{
     display: flex;
     flex-direction: column;
     margin: 10px 0px 10px 0px;
-}
-main #bears{
     border-style: solid;
 }
 main .allgiraffe{
     display: flex;
     flex-direction: column;
     margin: 10px 500px 10px 0px;
-}
-main #giraffes{
     border-style: solid;
 }
