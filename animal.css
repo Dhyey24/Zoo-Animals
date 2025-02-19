@@ -1,30 +1,57 @@
-header h1{
+header h1 {
     color: darkgoldenrod;
     text-align: center;
     text-decoration: underline;
     border-style: solid;
     padding: 20px;
 }
-main{
+
+main {
     display: flex;
     gap: 10px;
     padding: 20px;
 }
-main h2{
+
+main h2 span {
     color: darkgoldenrod;
     text-align: left;
     text-decoration: underline;
     display: flex;
+    text-align: center;
+    margin: 0px 150px;
 }
-main .allbear{
+
+main .allBear {
     display: flex;
     flex-direction: column;
     margin: 10px 0px 10px 0px;
     border-style: solid;
 }
-main .allgiraffe{
+
+main .allGiraffe {
     display: flex;
     flex-direction: column;
-    margin: 10px 500px 10px 0px;
+    margin: 10px 0px 10px 0px;
     border-style: solid;
+}
+main .allLion {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0px 10px 0px;
+    border-style: solid;
+}
+main .allMonkey {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0px 10px 0px;
+    border-style: solid;
+}
+main .allAlligator {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0px 10px 0px;
+    border-style: solid;
+}
+article ul li {
+    max-width: 300px;
 }
